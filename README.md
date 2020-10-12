@@ -1,0 +1,2 @@
+# AdminPanel
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/42e433e94ecf429bac8c0e48e8419af0)](https://app.codacy.com/gh/ZeroNullDev/AdminPanel?utm_source=github.com&utm_medium=referral&utm_content=ZeroNullDev/AdminPanel&utm_campaign=Badge_Grade)
