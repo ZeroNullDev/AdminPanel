@@ -1,0 +1,5 @@
+main: me.zeronull.adminpanel.AdminPanel
+name: AdminPanel
+version: 1.0
+description: A Minecraft Server Config Manager and Administration Panel
+author: ZeroNull
